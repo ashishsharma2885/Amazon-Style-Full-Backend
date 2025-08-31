@@ -1,4 +1,4 @@
-const url ="mongodb+srv://ashishsharma60142_db_user:8081@cluster0.k2jlhwj.mongodb.net/";
+
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
